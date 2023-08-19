@@ -4,7 +4,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Rheud/borderbreak-tracklist)
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/Rheud/borderbreak-tracklist)
-![GitHub release (by tag)](https://img.shields.io/github/downloads/Rheud/borderbreak-tracklist/v1.0/total)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/Rheud/borderbreak-tracklist)
 
 BORDER BREAKのサントラCDの収録曲一覧とその曲がゲーム中のどのシーンで流れるかの補足情報を整理したtsvファイルです。  
 下記サントラの収録曲を網羅しています。
